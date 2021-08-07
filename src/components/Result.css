@@ -1,0 +1,20 @@
+.center__desc {
+  display: flex;
+  margin-top: 50px;
+}
+
+img {
+  border: 1px solid black;
+  height: 400px;
+  margin-right: 25px;
+}
+
+h1 {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+p {
+  text-align: justify;
+  font-weight: 400;
+}
